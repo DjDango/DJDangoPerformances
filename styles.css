@@ -4,3 +4,9 @@ body {
 body {
   background:turquoise;
 }
+
+body {
+  background: linear-gradient(to top, blue, purple);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
