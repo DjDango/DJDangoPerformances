@@ -10,3 +10,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+img {
+  width: 400px,
+  height: auto
+}
