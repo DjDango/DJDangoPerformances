@@ -1,5 +1,5 @@
 body {
-  font-family: Garamond;
+  font-family: Tahoma, Verdana, sans-serif;
 }
 body {
   background:turquoise;
@@ -9,8 +9,4 @@ body {
   background: linear-gradient(to top, cyan, lightgreen);
   background-repeat: no-repeat;
   background-attachment: fixed;
-}
-img {
-  width: 400px,
-  height: auto
 }
