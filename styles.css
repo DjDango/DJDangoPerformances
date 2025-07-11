@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  background: linear-gradient(to top, lightgreen, cyan);
+  background: linear-gradient(to top, pink, purple, blue, cyan, lightgreen, yellow, orange, red);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
