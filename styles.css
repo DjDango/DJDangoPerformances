@@ -1,7 +1,7 @@
-h1, h2 ,h3, h4, h5, h6, a, p {
+body {
   font-family: Monaco, Verdana, sans-serif;
 
-body {
+#grad {
   background: linear-gradient(to bottom right, cyan, lightgreen);
   background-repeat: no-repeat;
   background-attachment: fixed;
