@@ -1,6 +1,6 @@
 body {
-  font-family: "Michroma", "Verdana", sans-serif;
-  background-image: linear-gradient(to bottom right, cyan, lightgreen);
+  font-family: "Verdana", sans-serif;
+  background-image: linear-gradient(cyan, lightgreen);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
