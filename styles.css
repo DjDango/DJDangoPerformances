@@ -1,7 +1,3 @@
-html, body {
-  height: 100%;
-  margin: 0;
-}
 body {
   font-family: "Michroma", "Verdana", sans-serif;
   background-image: linear-gradient(to bottom right, cyan, lightgreen);
