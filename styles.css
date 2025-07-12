@@ -3,8 +3,8 @@ html, body {
   margin: 0;
 }
 body {
-  font-family: "Michroma", sans-serif;
-  background: linear-gradient(to bottom right, red, yellow);
+  font-family: "Michroma", Verdana sans-serif;
+  background: linear-gradient(to bottom right, red, orange, yellow, green, blue, indigo, purple);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
