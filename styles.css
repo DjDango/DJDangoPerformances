@@ -3,4 +3,5 @@ body {
   background-image: linear-gradient(to bottom right, cyan, lightgreen);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
 }
