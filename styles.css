@@ -1,4 +1,4 @@
-body {
+html, body {
   font-family: Monaco, Verdana, sans-serif;
   background-image: linear-gradient(to bottom right, cyan, lightgreen);
   background-repeat: no-repeat;
