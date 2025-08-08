@@ -8,6 +8,7 @@ body {
   text-align: center
 }
 
-.fa-brands fa-facebook{
-  color: rgb(24, 119, 242);
+.fa-brands.fa-facebook svg {
+  fill: rgb(24, 119, 242) !important;
 }
+
