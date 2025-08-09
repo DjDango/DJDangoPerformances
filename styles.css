@@ -4,8 +4,9 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
 .icons{
-  text-align: center
+  text-align: center;
 }
 
 .fa-brands fa-facebook fa-3x{
