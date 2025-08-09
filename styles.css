@@ -7,16 +7,5 @@ body {
 
 .icons{
   text-align: center;
-}
-
-.fa-brands fa-facebook fa-3x:link{
-  color: blue;
-}
-
-.fa-brands fa-instagram fa-3x:link{
-  color: purple;
-}
-
-.fa-brands fa-discord fa-3x:link{
-  color:blue;
+  color: black;
 }
