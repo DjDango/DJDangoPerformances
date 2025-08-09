@@ -9,10 +9,10 @@ body {
   text-align: center;
 }
 
-.fa-brands fa-facebook fa-3x{
+.fa-brands fa-facebook fa-3x:link{
   color: hsl(221, 50, 48);
 }
 
-.fa-brands fa-instagram fa-3x{
+.fa-brands fa-instagram fa-3x:link{
   color: rgb(150, 47, 191);
 }
