@@ -6,10 +6,25 @@ body {
 }
 
 .icons{
-  color: black;
   text-align: center;
+}
+
+fa-facebook{
+  color: blue;
+}
+
+fa-instagram{
+  color: purple;
+}
+
+fa-discord{
+  color: #7289da;
 }
 
 fa-tiktok{
   color: black;
+}
+
+fa-soundcloud{
+  color: orange;
 }
