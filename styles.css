@@ -1,6 +1,9 @@
+html {
+  background-color: black;
+}
+
 body {
   font-family: "Michroma", sans-serif;
-  background-color: black;
   color: white;
 }
 
