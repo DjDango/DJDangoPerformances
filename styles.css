@@ -3,6 +3,7 @@ body {
   background-image: linear-gradient(black);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  color: white;
 }
 
 .icons{
