@@ -5,26 +5,6 @@ body {
   background-attachment: fixed;
 }
 
-fa-brands fa-facebook{
-  color: blue;
-}
-
-fa-brands fa-instagram{
-  color: purple;
-}
-
-fa-brands fa-discord{
-  color: #7289da;
-}
-
-fa-brands fa-tiktok{
-  color: black;
-}
-
-fa-brands fa-soundcloud{
-  color: orange;
-}
-
 .icons{
   text-align: center;
 }
