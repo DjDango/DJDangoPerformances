@@ -2,6 +2,19 @@ body {
   background-color: black;
   font-family: "Inconsolata", Verdana, sans-serif;
 }
-h1, h2, h3, h4, h5, h6, a, p {
+h1, h2, h3, h4, h5, h6, p {
   color: #4dff00;
+}
+a:link {
+  color: ##4dff00;
+}
+a:visited {
+  color: ##4dff00;
+}
+a:hover {
+  color: ##4dff00;
+  text-decoration: underline;
+}
+a:active {
+  color: ##4dff00;
 }
