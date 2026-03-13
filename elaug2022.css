@@ -10,11 +10,3 @@ a:link {
 }
 a:visited {
   color: ##4dff00;
-}
-a:hover {
-  color: ##4dff00;
-  text-decoration: underline;
-}
-a:active {
-  color: ##4dff00;
-}
