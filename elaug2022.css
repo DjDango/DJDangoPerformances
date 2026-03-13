@@ -4,5 +4,5 @@ body {
 }
 h1, h2, h3, h4, h5, h6, p, a{
   color: #00F0FF;
-  text-shadow: 2px 2px black;
+  text-shadow: 5px 5px black;
 }
