@@ -2,7 +2,7 @@ body {
   background-color: #88E788;
   font-family: Arial, sans-serif;
 }
-h1, h2, h3, h4, h5, h6, p, a{
+h1, h2, h3, h4, h5, h6, p, a, figure{
   color: #00F0FF;
   text-shadow: -1px 0 black, 1px 0 black, 0 -1px black, 0 1px black;
 }
