@@ -3,6 +3,5 @@ body {
   font-family: Arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6, p, a, figure{
-  color: #000000;
-  outline-color: #5ce1e6;
+  color: #5ce1e6;
 }
